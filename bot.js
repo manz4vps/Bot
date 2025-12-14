@@ -6,7 +6,7 @@ const readline = require('readline');
 const HOST = '88.198.37.107';
 const PORT = 4040;
 const VERSION = '1.16.5';
-const BOT_COUNT = 2;
+const BOT_COUNT = 5;
 const JOIN_DELAY = 10000;
 
 // === FILE PENYIMPAN NAMA BOT ===
