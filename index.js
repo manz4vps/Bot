@@ -3,10 +3,10 @@ const fs = require('fs');
 const readline = require('readline');
 
 // === CONFIG ===
-const HOST = 'server.manzsrv.my.id';
+const HOST = '88.198.37.107';
 const PORT = 4040;
-const VERSION = '1.21.4';
-const BOT_COUNT = 55;
+const VERSION = '1.16.5';
+const BOT_COUNT = 2;
 const JOIN_DELAY = 10000;
 
 // === FILE PENYIMPAN NAMA BOT ===
